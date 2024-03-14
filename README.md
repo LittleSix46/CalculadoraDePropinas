@@ -14,6 +14,9 @@ Aqui adjunto foto del metodo "Calculadora" que es el metodo que utilizo para hac
 En el metodo "Calculadora" se puede observar que llamo otro metodo llamada "reiniciar" que es el metodo que utilizo tanto en el boton reiniciar tanto cuando se introduce un dato no numerico en el cuadro de texto para que la calculadora regrese a su estado original.
 ![image](https://github.com/LittleSix46/CalculadoraDePropinas/assets/163340762/728a2b34-2cba-4e89-8aad-9f3fd41a3fac)
 
+Aqui se puede ver un ejemplo funcional de todos los botones:
+https://gyazo.com/7ce77438faeab1a9ec3526a24f97d28d
+
 
 
 
