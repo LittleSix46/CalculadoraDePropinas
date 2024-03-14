@@ -17,8 +17,7 @@ En el metodo "Calculadora" se puede observar que llamo otro metodo llamada "rein
 Aqui se puede ver un ejemplo funcional de todos los botones:
 
 https://github.com/LittleSix46/CalculadoraDePropinas/assets/163340762/79819501-dec7-4e55-8f2b-684b4c8f19ad
-
-
+https://github.com/LittleSix46/CalculadoraDePropinas/assets/163340762/575e1245-83f0-44b5-a413-db15de25ae7e
 
 
 
