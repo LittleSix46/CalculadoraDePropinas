@@ -18,6 +18,8 @@ Aqui se puede ver un ejemplo funcional de todos los botones:
 
 https://github.com/LittleSix46/CalculadoraDePropinas/assets/163340762/79819501-dec7-4e55-8f2b-684b4c8f19ad
 
+Tambien se puede ver otro ejemplo en el que no inserto ningun numero y nos reinicia para ingresar bien un numero
+
 https://github.com/LittleSix46/CalculadoraDePropinas/assets/163340762/575e1245-83f0-44b5-a413-db15de25ae7e
 
 
